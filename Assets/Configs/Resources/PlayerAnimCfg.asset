@@ -15,7 +15,7 @@ MonoBehaviour:
   Sequence:
   - Track: 0
     Sprites:
-    - {fileID: 0}
+    - {fileID: 21300000, guid: 93b7ec756a69e854599d47553efe6ff7, type: 3}
   - Track: 1
     Sprites:
     - {fileID: -1835083308028895951, guid: 86249f88fb4a40f44b46282e64c34605, type: 3}
@@ -31,4 +31,4 @@ MonoBehaviour:
     - {fileID: 3619777681310492151, guid: 86249f88fb4a40f44b46282e64c34605, type: 3}
   - Track: 2
     Sprites:
-    - {fileID: 0}
+    - {fileID: 21300000, guid: b4b927f1e89c0fc4bbdb55b855511518, type: 3}
