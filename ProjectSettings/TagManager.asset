@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Stars
   layers:
   - Default
   - TransparentFX
@@ -40,6 +41,18 @@ TagManager:
   m_SortingLayers:
   - name: Background
     uniqueID: 2159552945
+    locked: 0
+  - name: LevelGround
+    uniqueID: 2483577069
+    locked: 0
+  - name: LevelDecorations
+    uniqueID: 1157824507
+    locked: 0
+  - name: LevelObstacles
+    uniqueID: 3882764789
+    locked: 0
+  - name: LevelInteractions
+    uniqueID: 3469159215
     locked: 0
   - name: Default
     uniqueID: 0
